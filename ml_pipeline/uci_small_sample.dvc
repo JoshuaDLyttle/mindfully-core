@@ -1,0 +1,6 @@
+outs:
+- md5: 8c6ed48c9a292498a56590a48b1b3bc2.dir
+  size: 3971482
+  nfiles: 6
+  hash: md5
+  path: uci_small_sample
