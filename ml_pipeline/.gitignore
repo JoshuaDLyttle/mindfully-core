@@ -1,1 +1,5 @@
 /uci_small_sample
+__pycache__/
+*.pyc
+mlflow.db
+mlruns/
